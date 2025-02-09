@@ -1,0 +1,4 @@
+Resolusi
+- Memahami Git dan GitHub.
+- Memahami cara kerja front end, back end, dan database.
+- Membaca lebih banyak.
