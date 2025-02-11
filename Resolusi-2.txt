@@ -3,6 +3,7 @@ Resolusi 2
   * f1
   * f2
     ^ x1
+    ^ x2
 - r6
 - r3
   * f1
