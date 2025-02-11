@@ -8,5 +8,6 @@ Resolusi 2
 - r3
   * f1
 - r4
+  * f1
 - r5
 - r7
